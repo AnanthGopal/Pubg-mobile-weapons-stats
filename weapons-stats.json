@@ -1,7 +1,7 @@
 [
   {
     "category": "Sniper",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/awm.png",
     "index": 0,
     "name": "AWM",
     "time_to_kill_level_2_vest": "N/A",
@@ -17,7 +17,7 @@
   },
   {
     "category": "Sniper",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/m24.png",
     "index": 1,
     "name": "M24",
     "time_to_kill_level_2_vest": "N/A",
@@ -33,7 +33,7 @@
   },
   {
     "category": "Sniper",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/karabiner_98_kurz.png",
     "index": 2,
     "name": "KAR98K",
     "time_to_kill_level_2_vest": "N/A",
@@ -49,7 +49,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/mk14_ebr.png",
     "index": 3,
     "name": "MK 14",
     "time_to_kill_level_2_vest": 0.18,
@@ -65,7 +65,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/slr.png",
     "index": 4,
     "name": "SLR",
     "time_to_kill_level_2_vest": "",
@@ -81,7 +81,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/sks.png",
     "index": 5,
     "name": "SKS",
     "time_to_kill_level_2_vest": "",
@@ -97,7 +97,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/mini_14.png",
     "index": 6,
     "name": "MINI 14",
     "time_to_kill_level_2_vest": "",
@@ -113,7 +113,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/vss_vintorez.png",
     "index": 7,
     "name": "VSS",
     "time_to_kill_level_2_vest": 0.364,
@@ -129,23 +129,7 @@
   },
   {
     "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
-    "index": 8,
-    "name": "MINI 14",
-    "time_to_kill_level_2_vest": "",
-    "level_1_helmet": 73.5,
-    "level_3_vest": 20.25,
-    "level_3_helmet": 47.25,
-    "no_vest": 45,
-    "rate_of_fire": 0,
-    "no_helmet": 104,
-    "level_2_helmet": 63,
-    "level_2_vest": 27,
-    "level_1_vest": 31.5
-  },
-  {
-    "category": "DMR",
-    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/akm.png",
+    "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/qbu.png",
     "index": 9,
     "name": "QBU",
     "time_to_kill_level_2_vest": "",
