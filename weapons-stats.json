@@ -5,15 +5,15 @@
         "name": "AWM",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/awm.png",
         "time_to_kill_level_2_vest": "n/a",
-        "no_helmet": 264,
-        "level_1_helmet": 185,
-        "level_2_helmet": 158,
-        "level_3_helmet": 119,
-        "no_vest": 132,
-        "level_1_vest": 92.4,
-        "level_2_vest": 79.2,
-        "level_3_vest": 59.4,
-        "rate_of_fire": 0
+        "no_helmet": "264",
+        "level_1_helmet": "185",
+        "level_2_helmet": "158",
+        "level_3_helmet": "119",
+        "no_vest": "132",
+        "level_1_vest": "92.4",
+        "level_2_vest": "79.2",
+        "level_3_vest": "59.4",
+        "rate_of_fire": "0"
     },
     {
         "index": 0,
@@ -21,14 +21,14 @@
         "name": "m24",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/m24.png",
         "time_to_kill_level_2_vest": "n/a",
-        "no_helmet": 150,
-        "level_1_helmet": 55,
-        "level_2_helmet": 35,
-        "level_3_helmet": 53,
-        "no_vest": 537,
-        "level_1_vest": 343.4,
-        "level_2_vest": 794,
-        "level_3_vest": 4.4,
-        "rate_of_fire": 0
+        "no_helmet": "150",
+        "level_1_helmet": "55",
+        "level_2_helmet": "35",
+        "level_3_helmet": "53",
+        "no_vest": "537",
+        "level_1_vest": "343.4",
+        "level_2_vest": "794",
+        "level_3_vest": "4.4",
+        "rate_of_fire": "0"
     }
 ]
