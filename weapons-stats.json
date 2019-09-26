@@ -14,7 +14,9 @@
         "level2vest": "79.2",
         "level3vest": "59.4",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 1,
@@ -31,7 +33,9 @@
         "level2vest": "46.8",
         "level3vest": "35.1",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 2,
@@ -48,7 +52,9 @@
         "level2vest": "44.4",
         "level3vest": "33.3",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 3,
@@ -65,7 +71,9 @@
         "level2vest": "36.0",
         "level3vest": "27.0",
         "rateoffire": "0.09",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 4,
@@ -82,7 +90,9 @@
         "level2vest": "34.2",
         "level3vest": "25.65",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 5,
@@ -99,7 +109,9 @@
         "level2vest": "31.2",
         "level3vest": "23.4",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 6,
@@ -116,7 +128,9 @@
         "level2vest": "27.0",
         "level3vest": "20.25",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 7,
@@ -133,7 +147,9 @@
         "level2vest": "23.4",
         "level3vest": "17.55",
         "rateoffire": "0.091",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 8,
@@ -150,7 +166,9 @@
         "level2vest": "32.4",
         "level3vest": "24.3",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 9,
@@ -167,7 +185,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.099",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 10,
@@ -184,7 +204,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.079",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 11,
@@ -201,7 +223,9 @@
         "level2vest": "27.0",
         "level3vest": "20.25",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 12,
@@ -218,7 +242,9 @@
         "level2vest": "27.0",
         "level3vest": "20.25",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 13,
@@ -235,7 +261,9 @@
         "level2vest": "24.0",
         "level3vest": "18.0",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 14,
@@ -252,7 +280,9 @@
         "level2vest": "24.0",
         "level3vest": "18.0",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 15,
@@ -269,7 +299,9 @@
         "level2vest": "24.0",
         "level3vest": "18.0",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 16,
@@ -286,7 +318,9 @@
         "level2vest": "24.0",
         "level3vest": "18.0",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 17,
@@ -303,7 +337,9 @@
         "level2vest": "24.0",
         "level3vest": "18.0",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 18,
@@ -320,7 +356,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.111",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 19,
@@ -337,7 +375,9 @@
         "level2vest": "25.8",
         "level3vest": "19.35",
         "rateoffire": "0.081",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 20,
@@ -354,7 +394,9 @@
         "level2vest": "23.4",
         "level3vest": "17.55",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 21,
@@ -371,7 +413,9 @@
         "level2vest": "22.2",
         "level3vest": "16.65",
         "rateoffire": "0.095",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 22,
@@ -388,7 +432,9 @@
         "level2vest": "19.2",
         "level3vest": "14.4",
         "rateoffire": "0.058",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 23,
@@ -405,7 +451,9 @@
         "level2vest": "_",
         "level3vest": "_",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 24,
@@ -422,7 +470,9 @@
         "level2vest": "14.4",
         "level3vest": "10.8",
         "rateoffire": "0.0432",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 25,
@@ -439,7 +489,9 @@
         "level2vest": "_",
         "level3vest": "_",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 26,
@@ -456,7 +508,9 @@
         "level2vest": "_",
         "level3vest": "_",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 27,
@@ -473,7 +527,9 @@
         "level2vest": "_",
         "level3vest": "_",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 28,
@@ -490,7 +546,9 @@
         "level2vest": "96.0",
         "level3vest": "72.0",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 29,
@@ -507,7 +565,9 @@
         "level2vest": "18.6",
         "level3vest": "13.95",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 30,
@@ -524,7 +584,9 @@
         "level2vest": "22.2",
         "level3vest": "16.65",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 31,
@@ -541,7 +603,9 @@
         "level2vest": "12.6",
         "level3vest": "9.45",
         "rateoffire": "0.0785",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 32,
@@ -561,6 +625,7 @@
         "bulletvelocity": "_",
         "magsize":"_",
         "extendedmagsize":"_"
+        
     },
     {
         "index": 33,
@@ -577,7 +642,9 @@
         "level2vest": "30.0",
         "level3vest": "22.5",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     },
     {
         "index": 34,
@@ -594,6 +661,8 @@
         "level2vest": "30.0",
         "level3vest": "22.5",
         "rateoffire": "_",
-        "bulletvelocity": "_"
+        "bulletvelocity": "_",
+        "magsize":"_",
+        "extendedmagsize":"_"
     }
 ]
