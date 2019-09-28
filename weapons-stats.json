@@ -8,15 +8,15 @@
         "nohelmet": "264.0",
         "level1helmet": "185.0",
         "level2helmet": "158.0",
-        "level3helmet": "119.0",
+        "level3helmet": "120.0",
         "novest": "132.0",
         "level1vest": "92.4",
         "level2vest": "79.2",
         "level3vest": "59.4",
         "rateoffire": "_",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "945.0",
+        "magsize": "5.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 1,
@@ -27,15 +27,15 @@
         "nohelmet": "156.0",
         "level1helmet": "_",
         "level2helmet": "_",
-        "level3helmet": "_",
+        "level3helmet": "79.0",
         "novest": "78.0",
         "level1vest": "54.6",
         "level2vest": "46.8",
         "level3vest": "35.1",
         "rateoffire": "_",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "790.0",
+        "magsize": "5.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 2,
@@ -46,15 +46,34 @@
         "nohelmet": "148.0",
         "level1helmet": "_",
         "level2helmet": "_",
-        "level3helmet": "_",
+        "level3helmet": "75.0",
         "novest": "74.0",
         "level1vest": "51.8",
         "level2vest": "44.4",
         "level3vest": "33.3",
         "rateoffire": "_",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "760.0",
+        "magsize": "5.0",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 36,
+        "category": "Sniper Rifles",
+        "name": "Win94",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/win94.png",
+        "timetokilltevel2vest": "0.18",
+        "nohelmet": "_",
+        "level1helmet": "_",
+        "level2helmet": "_",
+        "level3helmet": "66.0",
+        "novest": "60.0.0",
+        "level1vest": "42.0",
+        "level2vest": "36.0",
+        "level3vest": "27.0",
+        "rateoffire": "0.09",
+        "bulletvelocity": "760.0",
+        "magsize": "8.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 3,
@@ -71,9 +90,9 @@
         "level2vest": "36.0",
         "level3vest": "27.0",
         "rateoffire": "0.09",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "853.0",
+        "magsize": "10.0.0",
+        "extendedmagsize": "2.00"
     },
     {
         "index": 4,
@@ -91,8 +110,8 @@
         "level3vest": "25.65",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "10.0",
+        "extendedmagsize": "20.0"
     },
     {
         "index": 5,
@@ -110,8 +129,8 @@
         "level3vest": "23.4",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "10.0",
+        "extendedmagsize": "20.0"
     },
     {
         "index": 6,
@@ -126,11 +145,11 @@
         "novest": "45.0",
         "level1vest": "31.5",
         "level2vest": "27.0",
-        "level3vest": "20.25",
+        "level3vest": "20.0.25",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "10.0",
+        "extendedmagsize": "20.0"
     },
     {
         "index": 7,
@@ -148,8 +167,8 @@
         "level3vest": "17.55",
         "rateoffire": "0.091",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "10.0",
+        "extendedmagsize": "20.0"
     },
     {
         "index": 8,
@@ -167,8 +186,8 @@
         "level3vest": "24.3",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "10.0",
+        "extendedmagsize": "20.0"
     },
     {
         "index": 9,
@@ -185,9 +204,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.099",
-        "bulletvelocity": "10",
-        "magsize":"30",
-        "extendedmagsize":"40"
+        "bulletvelocity": "10.0",
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 10,
@@ -205,8 +224,8 @@
         "level3vest": "21.15",
         "rateoffire": "0.079",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 11,
@@ -221,11 +240,11 @@
         "novest": "45.0",
         "level1vest": "31.5",
         "level2vest": "27.0",
-        "level3vest": "20.25",
+        "level3vest": "20.0.25",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 12,
@@ -240,11 +259,11 @@
         "novest": "45.0",
         "level1vest": "31.5",
         "level2vest": "27.0",
-        "level3vest": "20.25",
+        "level3vest": "20.0.25",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "20.0",
+        "extendedmagsize": "30.0"
     },
     {
         "index": 13,
@@ -262,8 +281,8 @@
         "level3vest": "18.0",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 14,
@@ -281,8 +300,8 @@
         "level3vest": "18.0",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 15,
@@ -300,14 +319,14 @@
         "level3vest": "18.0",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 16,
         "category": "AR",
         "name": "M16A4",
-        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/m416.png",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/m16a4.png",
         "timetokilltevel2vest": "_",
         "nohelmet": "93.0",
         "level1helmet": "65.0",
@@ -319,8 +338,8 @@
         "level3vest": "18.0",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 17,
@@ -338,8 +357,8 @@
         "level3vest": "18.0",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 18,
@@ -356,9 +375,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.111",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "915.0",
+        "magsize": "47.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 19,
@@ -375,12 +394,12 @@
         "level2vest": "25.8",
         "level3vest": "19.35",
         "rateoffire": "0.081",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "715.0",
+        "magsize": "100.0",
+        "extendedmagsize": "_"
     },
     {
-        "index": 20,
+        "index": 20.0,
         "category": "SMG",
         "name": "TOMMY GUN",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/awm.png",
@@ -395,8 +414,8 @@
         "level3vest": "17.55",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "50.0"
     },
     {
         "index": 21,
@@ -414,8 +433,8 @@
         "level3vest": "16.65",
         "rateoffire": "0.095",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 22,
@@ -433,8 +452,8 @@
         "level3vest": "14.4",
         "rateoffire": "0.058",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "13.0",
+        "extendedmagsize": "25.0"
     },
     {
         "index": 23,
@@ -452,8 +471,8 @@
         "level3vest": "_",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "49.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 24,
@@ -468,11 +487,11 @@
         "novest": "24.0",
         "level1vest": "16.8",
         "level2vest": "14.4",
-        "level3vest": "10.8",
+        "level3vest": "10.0.8",
         "rateoffire": "0.0432",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "25.0",
+        "extendedmagsize": "35.0"
     },
     {
         "index": 25,
@@ -490,8 +509,8 @@
         "level3vest": "_",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "5.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 26,
@@ -509,8 +528,8 @@
         "level3vest": "_",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "2.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 27,
@@ -528,12 +547,12 @@
         "level3vest": "_",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "5.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 28,
-        "category": "Shotguns",
+        "category": "Shotguns, Pistols",
         "name": "Sawed off",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/sawed_off.png",
         "timetokilltevel2vest": "_",
@@ -547,8 +566,8 @@
         "level3vest": "72.0",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "2.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 29,
@@ -566,13 +585,13 @@
         "level3vest": "13.95",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "15.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 30,
         "category": "Pistols",
-        "name": "COLT 1911",
+        "name": "P1911",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/p1911.png",
         "timetokilltevel2vest": "_",
         "nohelmet": "74.0",
@@ -585,8 +604,8 @@
         "level3vest": "16.65",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "7.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 31,
@@ -604,8 +623,8 @@
         "level3vest": "9.45",
         "rateoffire": "0.0785",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "20.0",
+        "extendedmagsize": "40.0"
     },
     {
         "index": 32,
@@ -623,9 +642,8 @@
         "level3vest": "9.45",
         "rateoffire": "0.0605",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
-        
+        "magsize": "17.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 33,
@@ -643,8 +661,8 @@
         "level3vest": "22.5",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "7.0",
+        "extendedmagsize": "_"
     },
     {
         "index": 34,
@@ -662,7 +680,140 @@
         "level3vest": "22.5",
         "rateoffire": "_",
         "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "magsize": "6.0",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 35,
+        "category": "Other",
+        "name": "Crossbow",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/crossbow.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "241.0",
+        "level1helmet": "168.0",
+        "level2helmet": "144.0",
+        "level3helmet": "108.0",
+        "novest": "104.0",
+        "level1vest": "73.0",
+        "level2vest": "62.0",
+        "level3vest": "47.0",
+        "rateoffire": "_",
+        "bulletvelocity": "160.0",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 37,
+        "category": "Melee",
+        "name": "Pan",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/pan.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "200.0",
+        "level1helmet": "140.0",
+        "level2helmet": "120.0",
+        "level3helmet": "90.0",
+        "novest": "80.0",
+        "level1vest": "56.0",
+        "level2vest": "48.0",
+        "level3vest": "48.0",
+        "rateoffire": "36.0",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 38,
+        "category": "Melee",
+        "name": "Sickle",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/sickle.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "150.0",
+        "level1helmet": "105.0",
+        "level2helmet": "90.0",
+        "level3helmet": "67.0",
+        "novest": "60.0",
+        "level1vest": "42.0",
+        "level2vest": "36.0",
+        "level3vest": "27.0",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 39,
+        "category": "Melee",
+        "name": "Machete",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/machete.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "150.0",
+        "level1helmet": "105.0",
+        "level2helmet": "90.0",
+        "level3helmet": "67.0",
+        "novest": "60.0",
+        "level1vest": "42.0",
+        "level2vest": "36.0",
+        "level3vest": "27.0",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 40,
+        "category": "Melee",
+        "name": "Crowbar",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/crowbar.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "150.0",
+        "level1helmet": "105.0",
+        "level2helmet": "90.0",
+        "level3helmet": "67.0",
+        "novest": "60.0",
+        "level1vest": "42.0",
+        "level2vest": "36.0",
+        "level3vest": "27.0",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 41,
+        "category": "Melee",
+        "name": "Jumping Punch",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/jumppunch.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "_",
+        "level1helmet": "_",
+        "level2helmet": "_",
+        "level3helmet": "_",
+        "novest": "38.0",
+        "level1vest": "_",
+        "level2vest": "_",
+        "level3vest": "_",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
+    },
+    {
+        "index": 41,
+        "category": "Melee",
+        "name": "Punch",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/punch.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "_",
+        "level1helmet": "_",
+        "level2helmet": "_",
+        "level3helmet": "_",
+        "novest": "18.0",
+        "level1vest": "_",
+        "level2vest": "_",
+        "level3vest": "_",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "_",
+        "extendedmagsize": "_"
     }
 ]
