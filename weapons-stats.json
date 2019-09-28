@@ -185,9 +185,9 @@
         "level2vest": "28.2",
         "level3vest": "21.15",
         "rateoffire": "0.099",
-        "bulletvelocity": "_",
-        "magsize":"_",
-        "extendedmagsize":"_"
+        "bulletvelocity": "10",
+        "magsize":"30",
+        "extendedmagsize":"40"
     },
     {
         "index": 10,
