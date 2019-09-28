@@ -342,6 +342,25 @@
         "extendedmagsize": "40.0"
     },
     {
+        "index": 43,
+        "category": "AR",
+        "name": "G36C",
+        "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/g36c.png",
+        "timetokilltevel2vest": "_",
+        "nohelmet": "93.0",
+        "level1helmet": "65.0",
+        "level2helmet": "55.8",
+        "level3helmet": "41.85",
+        "novest": "40.0",
+        "level1vest": "28.0",
+        "level2vest": "24.0",
+        "level3vest": "18.0",
+        "rateoffire": "_",
+        "bulletvelocity": "_",
+        "magsize": "30.0",
+        "extendedmagsize": "40.0"
+    },
+    {
         "index": 17,
         "category": "AR",
         "name": "AUG",
@@ -798,7 +817,7 @@
         "extendedmagsize": "_"
     },
     {
-        "index": 41,
+        "index": 42,
         "category": "Melee",
         "name": "Punch",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/punch.png",
