@@ -518,18 +518,18 @@
         "name": "S12K",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/s12k.png",
         "timetokilltevel2vest": "0.0",
-        "nohelmet": "_",
-        "level1helmet": "_",
-        "level2helmet": "_",
-        "level3helmet": "_",
-        "novest": "_",
-        "level1vest": "_",
-        "level2vest": "_",
-        "level3vest": "_",
+        "nohelmet": "‭180‬",
+        "level1helmet": "‭134.1‬",
+        "level2helmet": "‭112.5‬",
+        "level3helmet": "‭84.6",
+        "novest": "‭282.",
+        "level1vest": "‭204.3‬",
+        "level2vest": "‭‭169.2‬",
+        "level3vest": "‭126.9‬",
         "rateoffire": "_",
-        "bulletvelocity": "_",
+        "bulletvelocity": "350.0",
         "magsize": "5.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "5.0"
     },
     {
         "index": 26,
@@ -537,18 +537,18 @@
         "name": "S686",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/s686.png",
         "timetokilltevel2vest": "0.0",
-        "nohelmet": "_",
-        "level1helmet": "_",
-        "level2helmet": "_",
-        "level3helmet": "_",
-        "novest": "_",
-        "level1vest": "_",
-        "level2vest": "_",
-        "level3vest": "_",
+        "nohelmet": "‭306.9‬",
+        "level1helmet": "‭215.1‬",
+        "level2helmet": "‭188.1‬",
+        "level3helmet": "‭137.7‬",
+        "novest": "‭207.9‬",
+        "level1vest": "‭145.8‬",
+        "level2vest": "‭124.2‬",
+        "level3vest": "‭93.6‬",
         "rateoffire": "_",
-        "bulletvelocity": "_",
+        "bulletvelocity": "370.0",
         "magsize": "2.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "2.0"
     },
     {
         "index": 27,
@@ -556,18 +556,18 @@
         "name": "S1897",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/s1897.png",
         "timetokilltevel2vest": "0.0",
-        "nohelmet": "_",
-        "level1helmet": "_",
-        "level2helmet": "_",
-        "level3helmet": "_",
-        "novest": "_",
-        "level1vest": "_",
-        "level2vest": "_",
-        "level3vest": "_",
+        "nohelmet": "‭306.9‬",
+        "level1helmet": "‭215.1‬",
+        "level2helmet": "‭188.1‬",
+        "level3helmet": "‭137.7‬",
+        "novest": "‭207.9‬",
+        "level1vest": "‭145.8‬",
+        "level2vest": "‭124.2‬",
+        "level3vest": "‭93.6‬",
         "rateoffire": "_",
-        "bulletvelocity": "_",
+        "bulletvelocity": "360.0",
         "magsize": "5.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "5.0"
     },
     {
         "index": 28,
@@ -575,18 +575,18 @@
         "name": "Sawed off",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/sawed_off.png",
         "timetokilltevel2vest": "0.25",
-        "nohelmet": "320.0",
-        "level1helmet": "224.0",
-        "level2helmet": "192.",
-        "level3helmet": "144.0",
-        "novest": "160.0",
-        "level1vest": "112.0",
-        "level2vest": "96.0",
-        "level3vest": "72.0",
+        "nohelmet": "‭238.4‬0",
+        "level1helmet": "‭167.2‬",
+        "level2helmet": "‭143.2‬",
+        "level3helmet": "‭107.2‬0",
+        "novest": "‭159.2‬",
+        "level1vest": "‭111.2‬",
+        "level2vest": "‭95.2‬",
+        "level3vest": "‭71.2‬",
         "rateoffire": "_",
-        "bulletvelocity": "_",
+        "bulletvelocity": "330.0",
         "magsize": "2.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "2.0"
     },
     {
         "index": 29,
@@ -605,7 +605,7 @@
         "rateoffire": "_",
         "bulletvelocity": "_",
         "magsize": "15.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "20.0"
     },
     {
         "index": 30,
@@ -624,7 +624,7 @@
         "rateoffire": "_",
         "bulletvelocity": "_",
         "magsize": "7.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "12.0"
     },
     {
         "index": 31,
@@ -660,7 +660,7 @@
         "level2vest": "12.6",
         "level3vest": "9.45",
         "rateoffire": "0.0605",
-        "bulletvelocity": "_",
+        "bulletvelocity": "25.0",
         "magsize": "17.0",
         "extendedmagsize": "_"
     },
@@ -681,12 +681,12 @@
         "rateoffire": "_",
         "bulletvelocity": "_",
         "magsize": "7.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "7.0"
     },
     {
         "index": 34,
         "category": "Pistols",
-        "name": "R45",
+        "name": "c",
         "image": "https://raw.githubusercontent.com/wa11breaker/Pubg-mobile-weapons-stats/master/img/r45.png",
         "timetokilltevel2vest": "0.75",
         "nohelmet": "100.0",
@@ -700,7 +700,7 @@
         "rateoffire": "_",
         "bulletvelocity": "_",
         "magsize": "6.0",
-        "extendedmagsize": "_"
+        "extendedmagsize": "6.0"
     },
     {
         "index": 35,
@@ -718,8 +718,8 @@
         "level3vest": "47.0",
         "rateoffire": "_",
         "bulletvelocity": "160.0",
-        "magsize": "_",
-        "extendedmagsize": "_"
+        "magsize": "1.0",
+        "extendedmagsize": "1"
     },
     {
         "index": 37,
