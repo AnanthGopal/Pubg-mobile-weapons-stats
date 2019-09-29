@@ -484,7 +484,7 @@
         "level1helmet": "42.1",
         "level2helmet": "37.1",
         "level3helmet": "24.1",
-        "novest": 35,
+        "novest": "35.0",
         "level1vest": "23.3",
         "level2vest": "21.4",
         "level3vest": "14.5",
@@ -719,7 +719,7 @@
         "rateoffire": "_",
         "bulletvelocity": "160.0",
         "magsize": "1.0",
-        "extendedmagsize": 1
+        "extendedmagsize": "1.0"
     },
     {
         "index": 37,
